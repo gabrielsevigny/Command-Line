@@ -1,0 +1,3 @@
+//Get my local ssh key
+
+cat ~/.ssh/id_rsa.pub
