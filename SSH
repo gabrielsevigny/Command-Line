@@ -1,3 +1,7 @@
+//Comment créer une clé ssh
+https://medium.com/devops-with-valentine/2021-how-to-setup-your-ssh-key-for-gitlab-on-macos-dfccec6904fb
+//Normalement elle est dans le dossier gabrielsevigny il faut la déplacer dans le dossier .ssh/id_rsa.pub
+
 //Get my local ssh key
 
 cat ~/.ssh/id_rsa.pub
